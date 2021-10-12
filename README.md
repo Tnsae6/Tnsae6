@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tnsae
 - 👀 I’m interested in django and data management
-- 🌱 I’m currently learning django
+- 🌱 I’m currently working on django projects for the government of Ethiopia.
 - 💞️ I’m looking to collaborate on web development
 - 📫 twitter.com/tnebyou
 
